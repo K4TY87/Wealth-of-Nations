@@ -1,5 +1,5 @@
 # Wealth-of-Nations
-An insight to my understanding of Data and Data structures, Development of Data sets using Excel and an Introduction to Tableau. I hope you enjoy reading this as much as i enjoyed producing this document.
+An insight to my understanding of Data and Data structures, Development of Data sets using Excel and an Introduction to Tableau. I hope you enjoy reading this as much as i enjoyed producing this document. Please download my handbook to see the extent of my knowledge, so far.
  
 
 ![image](https://user-images.githubusercontent.com/130657071/232029212-8a9721b4-2555-4d7a-906c-95204c686029.png)
