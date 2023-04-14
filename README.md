@@ -6,4 +6,4 @@ An insight to my understanding of Data and Data structures, Development of Data 
 
 ![image](https://user-images.githubusercontent.com/130657071/232029319-7762aa3c-8bd2-402f-abc8-40bfcffcf7c4.png)
 
-![image](https://user-images.githubusercontent.com/130657071/232006130-ac2faa44-fc6c-4fb8-8a8b-b109c488edb2.png)
+![image](https://user-images.githubusercontent.com/130657071/232029373-36b212b9-29c3-4208-ac0f-aa841903e797.png)
